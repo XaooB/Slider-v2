@@ -1,1 +1,1 @@
-# Slider-v2
+# Slider-v2 - trying to make much better version of my first project.
