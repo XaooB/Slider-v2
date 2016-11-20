@@ -1,0 +1,19 @@
+* {
+	padding:0;
+	margin:0;
+}
+
+.container {
+	width:1200px;
+	margin:0 auto;
+}
+
+.slider {
+	width:800px;
+	margin:0 auto;
+	position:relative
+}
+
+.item {
+	/*position:absolute;*/
+}
